@@ -1,0 +1,12 @@
+department,code,head_id,head_name,headcount_active
+Engineering,ENG,AS1004,Neha Bhargava,36
+Product & Design,PRD,AS1005,Nikhil Mishra,12
+Data & AI,DAI,AS1006,Prakash Deshpande,13
+Quality Assurance,QAT,AS1007,Rekha Kamath,16
+IT & Infrastructure,ITI,AS1008,Rohit Chatterjee,9
+Sales,SAL,AS1009,Ananya Krishnan,13
+Marketing,MKT,AS1010,Manish Kapoor,8
+Customer Success,CSU,AS1011,Sowmya Mishra,14
+Human Resources,HRD,AS1002,Sunita Rao,7
+Finance & Accounts,FIN,AS1003,Rajesh Kulkarni,7
+Administration,ADM,AS1001,Arvind Menon,4

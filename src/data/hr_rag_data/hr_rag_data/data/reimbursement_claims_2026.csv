@@ -1,0 +1,129 @@
+claim_id,employee_id,name,grade,category,expense_date,claim_submitted_on,amount_claimed,amount_approved,status,approver_id,paid_on,remarks
+RC-2026-0110,AS1019,Neha Menon,L2,Internet Bill,2026-03-01,2026-04-05,700,0,Rejected,AS1016,,Submitted after 30-day claim window
+RC-2026-0107,AS1127,Neha Singh,L3,Ergonomic Allowance,2026-03-07,2026-04-19,4250,0,Rejected,AS1124,,Submitted after 30-day claim window
+RC-2026-0067,AS1129,Rahul Rao,L4,Learning & Certification,2026-03-11,2026-03-26,21700,0,Rejected,AS1003,,
+RC-2026-0050,AS1041,Siddharth Shetty,L3,Hotel,2026-03-14,2026-03-17,7000,6000,Paid,AS1017,2026-03-22,"Amount above grade limit (₹6,000/night); excess not reimbursed"
+RC-2026-0061,AS1053,Sandeep Fernandes,L1,Internet Bill,2026-03-16,2026-03-17,450,450,Paid,AS1050,2026-04-05,
+RC-2026-0029,AS1067,Bhavana Mehta,L3,Travel - Train/Bus,2026-03-17,2026-04-06,950,950,Paid,AS1059,2026-04-20,
+RC-2026-0056,AS1057,Anjali Rao,L3,Travel - Flight,2026-03-18,2026-04-05,11750,11750,Paid,AS1050,2026-04-21,
+RC-2026-0037,AS1074,Kavya Agarwal,L2,Client Entertainment,2026-03-23,2026-03-28,4000,4000,Paid,AS1072,2026-04-07,
+RC-2026-0076,AS1134,Pallavi Jain,L2,Hotel,2026-03-24,2026-04-08,3050,3050,Paid,AS1129,2026-04-26,
+RC-2026-0122,AS1147,Arjun Menon,L2,Hotel,2026-03-26,2026-04-28,4250,0,Rejected,AS1111,,Submitted after 30-day claim window
+RC-2026-0001,AS1056,Anjali Fernandes,L3,Internet Bill,2026-03-31,2026-04-17,850,850,Paid,AS1050,2026-04-25,
+RC-2026-0048,AS1028,Pooja Jain,L3,Ergonomic Allowance,2026-03-31,2026-05-12,7700,0,Rejected,AS1018,,Submitted after 30-day claim window
+RC-2026-0063,AS1098,Lavanya Menon,L3,Travel - Flight,2026-03-31,2026-05-10,10550,0,Rejected,AS1091,,Submitted after 30-day claim window
+RC-2026-0033,AS1115,Harini Pillai,L3,Travel - Train/Bus,2026-04-05,2026-04-29,2600,2600,Paid,AS1111,2026-05-19,
+RC-2026-0003,AS1087,Bhavana Khan,L3,Hotel,2026-04-08,2026-05-14,5200,0,Rejected,AS1083,,Submitted after 30-day claim window
+RC-2026-0065,AS1072,Gaurav Desai,L4,Ergonomic Allowance,2026-04-11,2026-04-12,5100,5100,Paid,AS1007,2026-04-25,
+RC-2026-0042,AS1146,Manish Mehta,L2,Meals (per diem),2026-04-19,2026-05-06,400,400,Paid,AS1111,2026-05-15,
+RC-2026-0043,AS1146,Manish Mehta,L2,Hotel,2026-04-20,2026-05-26,4700,0,Rejected,AS1111,,Submitted after 30-day claim window
+RC-2026-0015,AS1065,Nikhil Pandey,L3,Client Entertainment,2026-04-21,2026-04-29,5550,5550,Paid,AS1059,2026-05-14,
+RC-2026-0023,AS1120,Pallavi Joshi,L3,Learning & Certification,2026-04-21,2026-06-04,15850,0,Rejected,AS1111,,Submitted after 30-day claim window
+RC-2026-0120,AS1040,Akash Iyer,L2,Meals (per diem),2026-04-21,2026-05-11,600,600,Paid,AS1016,2026-05-26,
+RC-2026-0058,AS1057,Anjali Rao,L3,Hotel,2026-04-22,2026-05-30,6450,0,Rejected,AS1050,,Submitted after 30-day claim window
+RC-2026-0062,AS1098,Lavanya Menon,L3,Local Conveyance,2026-04-22,2026-05-19,800,0,Rejected,AS1091,,
+RC-2026-0016,AS1031,Radhika Krishnan,L1,Travel - Train/Bus,2026-04-23,2026-04-27,850,850,Paid,AS1017,2026-05-05,
+RC-2026-0112,AS1106,Sana Thakur,L2,Travel - Train/Bus,2026-04-27,2026-05-02,2400,0,Rejected,AS1104,,
+RC-2026-0030,AS1067,Bhavana Mehta,L3,Client Entertainment,2026-04-27,2026-05-22,7700,7700,Paid,AS1059,2026-06-03,
+RC-2026-0081,AS1012,Imran Sheikh,L5,Internet Bill,2026-04-29,2026-05-29,950,950,Paid,AS1008,2026-06-03,
+RC-2026-0075,AS1108,Karthik Mehta,L2,Travel - Train/Bus,2026-05-01,2026-06-10,3100,0,Rejected,AS1104,,Submitted after 30-day claim window
+RC-2026-0008,AS1001,Arvind Menon,L6,Client Entertainment,2026-05-01,2026-06-07,6650,0,Rejected,AS1001,,Submitted after 30-day claim window
+RC-2026-0019,AS1059,Tarun Rao,L4,Mobile Bill,2026-05-02,2026-06-07,350,0,Rejected,AS1006,,Submitted after 30-day claim window
+RC-2026-0073,AS1061,Mariam Bhat,L2,Internet Bill,2026-05-04,2026-06-04,900,0,Rejected,AS1059,,Submitted after 30-day claim window
+RC-2026-0118,AS1040,Akash Iyer,L2,Local Conveyance,2026-05-07,2026-05-18,550,550,Paid,AS1016,2026-05-31,
+RC-2026-0066,AS1129,Rahul Rao,L4,Meals (per diem),2026-05-07,2026-06-02,400,0,Pending,AS1003,,
+RC-2026-0087,AS1133,Arjun Deshpande,L3,Travel - Flight,2026-05-08,2026-05-13,11700,11700,Paid,AS1129,2026-05-24,
+RC-2026-0025,AS1007,Rekha Kamath,L5,Internet Bill,2026-05-10,2026-05-30,900,0,Rejected,AS1001,,
+RC-2026-0111,AS1019,Neha Menon,L2,Meals (per diem),2026-05-17,2026-05-30,700,700,Paid,AS1016,2026-06-04,
+RC-2026-0070,AS1068,Deepak Deshpande,L2,Ergonomic Allowance,2026-05-17,2026-06-01,9500,9500,Paid,AS1059,2026-06-21,
+RC-2026-0046,AS1024,Naveen Krishnan,L1,Internet Bill,2026-05-21,2026-06-13,450,450,Paid,AS1016,2026-06-21,
+RC-2026-0064,AS1098,Lavanya Menon,L3,Hotel,2026-05-22,2026-06-24,4200,0,Rejected,AS1091,,Submitted after 30-day claim window
+RC-2026-0052,AS1118,Aarav Deshpande,L3,Learning & Certification,2026-05-29,2026-06-23,16650,16650,Paid,AS1111,2026-07-10,
+RC-2026-0099,AS1077,Karthik Hegde,L2,Learning & Certification,2026-06-01,2026-07-10,21200,0,Rejected,AS1072,,Submitted after 30-day claim window
+RC-2026-0121,AS1147,Arjun Menon,L2,Learning & Certification,2026-06-03,2026-06-13,19750,19750,Paid,AS1111,2026-07-01,
+RC-2026-0116,AS1109,Mariam Joshi,L1,Learning & Certification,2026-06-04,2026-06-20,23700,23700,Paid,AS1104,2026-06-28,
+RC-2026-0013,AS1065,Nikhil Pandey,L3,Travel - Flight,2026-06-05,2026-07-10,10450,0,Rejected,AS1059,,Submitted after 30-day claim window
+RC-2026-0053,AS1135,Rakesh Desai,L2,Internet Bill,2026-06-05,2026-06-25,450,0,Pending,AS1013,,
+RC-2026-0123,AS1147,Arjun Menon,L2,Internet Bill,2026-06-06,2026-06-24,700,700,Paid,AS1111,2026-07-05,
+RC-2026-0103,AS1051,Vidya Singh,L2,Meals (per diem),2026-06-09,2026-07-09,1150,1150,Paid,AS1050,2026-07-26,
+RC-2026-0055,AS1030,Rakesh Thakur,L2,Internet Bill,2026-06-09,2026-06-30,850,850,Approved,AS1017,,
+RC-2026-0108,AS1127,Neha Singh,L3,Travel - Train/Bus,2026-06-11,2026-07-17,3450,0,Rejected,AS1124,,Submitted after 30-day claim window
+RC-2026-0084,AS1033,Imran Banerjee,L2,Travel - Train/Bus,2026-06-14,2026-07-22,2950,0,Rejected,AS1015,,Submitted after 30-day claim window
+RC-2026-0125,AS1126,Arjun Pandey,L1,Learning & Certification,2026-06-14,2026-07-12,18150,18150,Paid,AS1014,2026-07-18,
+RC-2026-0106,AS1099,Pooja D'Souza,L3,Hotel,2026-06-14,2026-06-27,4050,0,Pending,AS1091,,
+RC-2026-0020,AS1059,Tarun Rao,L4,Travel - Train/Bus,2026-06-14,2026-06-21,2600,2600,Paid,AS1006,2026-07-07,
+RC-2026-0082,AS1044,Neha Sharma,L1,Internet Bill,2026-06-16,2026-07-16,750,0,Rejected,AS1017,,
+RC-2026-0128,AS1076,Prakash Sharma,L1,Client Entertainment,2026-06-16,2026-06-19,2500,2500,Paid,AS1072,2026-06-27,
+RC-2026-0031,AS1083,Radhika Fernandes,L4,Mobile Bill,2026-06-18,2026-06-28,350,350,Paid,AS1008,2026-07-16,
+RC-2026-0104,AS1051,Vidya Singh,L2,Internet Bill,2026-06-19,2026-06-25,400,400,Paid,AS1050,2026-07-04,
+RC-2026-0009,AS1001,Arvind Menon,L6,Internet Bill,2026-06-24,2026-07-03,800,800,Paid,AS1001,2026-07-08,
+RC-2026-0045,AS1045,Pallavi Shetty,L3,Travel - Train/Bus,2026-06-26,2026-07-09,1250,1250,Paid,AS1016,2026-07-27,
+RC-2026-0089,AS1122,Nandini Fernandes,L3,Travel - Train/Bus,2026-06-27,2026-07-15,1200,1200,Paid,AS1111,2026-08-02,
+RC-2026-0119,AS1040,Akash Iyer,L2,Internet Bill,2026-07-01,2026-07-29,400,400,Paid,AS1016,2026-08-04,
+RC-2026-0026,AS1069,Lavanya Sharma,L2,Hotel,2026-07-01,2026-07-21,7900,0,Pending,AS1059,,
+RC-2026-0078,AS1121,Tarun Reddy,L3,Travel - Flight,2026-07-02,2026-07-19,7700,0,Pending,AS1111,,
+RC-2026-0071,AS1022,Pallavi Mishra,L3,Ergonomic Allowance,2026-07-03,2026-07-31,6700,6700,Paid,AS1018,2026-08-07,
+RC-2026-0059,AS1038,Tarun Bhat,L2,Travel - Train/Bus,2026-07-06,2026-08-19,2000,0,Rejected,AS1016,,Submitted after 30-day claim window
+RC-2026-0127,AS1076,Prakash Sharma,L1,Internet Bill,2026-07-06,2026-08-14,750,0,Rejected,AS1072,,Submitted after 30-day claim window
+RC-2026-0092,AS1101,Aishwarya Singh,L3,Learning & Certification,2026-07-11,2026-08-13,21350,0,Rejected,AS1091,,Submitted after 30-day claim window
+RC-2026-0093,AS1101,Aishwarya Singh,L3,Local Conveyance,2026-07-20,2026-08-14,1450,1450,Paid,AS1091,2026-08-30,
+RC-2026-0028,AS1112,Harsh Kapoor,L2,Internet Bill,2026-07-20,2026-08-29,800,0,Rejected,AS1111,,Submitted after 30-day claim window
+RC-2026-0007,AS1086,Sneha Mehta,L1,Meals (per diem),2026-07-23,2026-08-12,950,950,Paid,AS1083,2026-08-27,
+RC-2026-0088,AS1133,Arjun Deshpande,L3,Hotel,2026-07-23,2026-08-25,5950,0,Rejected,AS1129,,Submitted after 30-day claim window
+RC-2026-0083,AS1033,Imran Banerjee,L2,Learning & Certification,2026-07-24,2026-08-22,24650,24650,Paid,AS1015,2026-09-03,
+RC-2026-0034,AS1032,Karthik Mishra,L2,Meals (per diem),2026-07-25,2026-08-29,700,0,Rejected,AS1015,,Submitted after 30-day claim window
+RC-2026-0072,AS1061,Mariam Bhat,L2,Local Conveyance,2026-07-27,2026-08-26,1450,1450,Paid,AS1059,2026-09-04,
+RC-2026-0047,AS1023,Pooja Chatterjee,L3,Mobile Bill,2026-07-29,2026-08-07,300,300,Paid,AS1015,2026-08-19,
+RC-2026-0010,AS1116,Shalini Pillai,L3,Hotel,2026-07-30,2026-07-31,2550,0,Pending,AS1111,,
+RC-2026-0079,AS1012,Imran Sheikh,L5,Local Conveyance,2026-08-01,2026-08-18,550,550,Approved,AS1008,,
+RC-2026-0101,AS1050,Fatima Gowda,L4,Internet Bill,2026-08-02,2026-09-02,750,0,Rejected,AS1005,,Submitted after 30-day claim window
+RC-2026-0018,AS1111,Prakash Singh,L4,Learning & Certification,2026-08-03,2026-09-02,22600,0,Rejected,AS1011,,
+RC-2026-0124,AS1020,Karthik Raman,L3,Local Conveyance,2026-08-03,2026-08-04,650,650,Paid,AS1017,2026-08-16,
+RC-2026-0096,AS1114,Harsh Desai,L3,Meals (per diem),2026-08-03,2026-09-03,1050,0,Rejected,AS1111,,Submitted after 30-day claim window
+RC-2026-0069,AS1068,Deepak Deshpande,L2,Ergonomic Allowance,2026-08-04,2026-08-31,5100,5100,Paid,AS1059,2026-09-19,
+RC-2026-0035,AS1037,Nandini Desai,L2,Travel - Train/Bus,2026-08-05,2026-08-08,1300,1300,Paid,AS1018,2026-08-15,
+RC-2026-0100,AS1050,Fatima Gowda,L4,Internet Bill,2026-08-09,2026-09-21,950,0,Rejected,AS1005,,Submitted after 30-day claim window
+RC-2026-0098,AS1095,Suresh Pandey,L3,Ergonomic Allowance,2026-08-11,2026-09-13,6200,0,Rejected,AS1091,,Submitted after 30-day claim window
+RC-2026-0077,AS1134,Pallavi Jain,L2,Hotel,2026-08-16,2026-09-23,7250,0,Rejected,AS1129,,Submitted after 30-day claim window
+RC-2026-0054,AS1135,Rakesh Desai,L2,Ergonomic Allowance,2026-08-16,2026-09-21,7600,0,Rejected,AS1013,,Submitted after 30-day claim window
+RC-2026-0102,AS1050,Fatima Gowda,L4,Hotel,2026-08-18,2026-09-30,2700,0,Rejected,AS1005,,Submitted after 30-day claim window
+RC-2026-0041,AS1016,Isha Shenoy,L4,Internet Bill,2026-08-21,2026-09-30,750,0,Rejected,AS1004,,Submitted after 30-day claim window
+RC-2026-0040,AS1016,Isha Shenoy,L4,Learning & Certification,2026-08-24,2026-10-03,3250,0,Rejected,AS1004,,Submitted after 30-day claim window
+RC-2026-0097,AS1114,Harsh Desai,L3,Travel - Flight,2026-08-27,2026-10-06,3900,0,Rejected,AS1111,,Submitted after 30-day claim window
+RC-2026-0095,AS1114,Harsh Desai,L3,Ergonomic Allowance,2026-08-28,2026-08-30,9200,9200,Paid,AS1111,2026-09-17,
+RC-2026-0032,AS1093,Bhavana Naidu,L3,Travel - Flight,2026-08-28,2026-09-24,6300,6300,Approved,AS1091,,
+RC-2026-0080,AS1012,Imran Sheikh,L5,Learning & Certification,2026-08-29,2026-09-15,7400,7400,Paid,AS1008,2026-09-24,
+RC-2026-0086,AS1080,Harsh Kulkarni,L3,Internet Bill,2026-09-01,2026-09-17,950,950,Paid,AS1072,2026-09-30,
+RC-2026-0036,AS1037,Nandini Desai,L2,Travel - Flight,2026-09-02,2026-10-14,12750,0,Rejected,AS1018,,Submitted after 30-day claim window
+RC-2026-0038,AS1074,Kavya Agarwal,L2,Hotel,2026-09-07,2026-10-03,4300,0,Rejected,AS1072,,
+RC-2026-0109,AS1127,Neha Singh,L3,Mobile Bill,2026-09-08,2026-10-23,400,0,Rejected,AS1124,,Submitted after 30-day claim window
+RC-2026-0115,AS1109,Mariam Joshi,L1,Travel - Flight,2026-09-08,2026-10-19,6250,0,Rejected,AS1104,,Submitted after 30-day claim window
+RC-2026-0074,AS1108,Karthik Mehta,L2,Ergonomic Allowance,2026-09-08,2026-09-12,8800,8800,Paid,AS1104,2026-09-27,
+RC-2026-0126,AS1126,Arjun Pandey,L1,Learning & Certification,2026-09-09,2026-10-21,8100,0,Rejected,AS1014,,Submitted after 30-day claim window
+RC-2026-0011,AS1131,Ankit Pandey,L2,Learning & Certification,2026-09-10,2026-09-26,18750,18750,Paid,AS1129,2026-10-15,
+RC-2026-0051,AS1118,Aarav Deshpande,L3,Client Entertainment,2026-09-11,2026-10-09,3200,3200,Paid,AS1111,2026-10-20,
+RC-2026-0014,AS1065,Nikhil Pandey,L3,Ergonomic Allowance,2026-09-12,2026-09-16,8450,0,Pending,AS1059,,
+RC-2026-0068,AS1129,Rahul Rao,L4,Client Entertainment,2026-09-13,2026-10-20,5350,0,Rejected,AS1003,,Submitted after 30-day claim window
+RC-2026-0057,AS1057,Anjali Rao,L3,Travel - Flight,2026-09-14,2026-10-13,13150,13150,Paid,AS1050,2026-10-18,
+RC-2026-0117,AS1081,Rakesh Bhat,L3,Learning & Certification,2026-09-16,2026-10-23,16350,0,Rejected,AS1072,,Submitted after 30-day claim window
+RC-2026-0044,AS1145,Nandini Shetty,L2,Ergonomic Allowance,2026-09-20,2026-10-31,5300,0,Rejected,AS1018,,Submitted after 30-day claim window
+RC-2026-0049,AS1041,Siddharth Shetty,L3,Local Conveyance,2026-09-21,2026-10-22,850,0,Rejected,AS1017,,Submitted after 30-day claim window
+RC-2026-0024,AS1007,Rekha Kamath,L5,Meals (per diem),2026-09-23,2026-10-16,1150,1150,Paid,AS1001,2026-10-28,
+RC-2026-0085,AS1080,Harsh Kulkarni,L3,Travel - Train/Bus,2026-09-25,2026-10-07,1550,1550,Approved,AS1072,,
+RC-2026-0091,AS1122,Nandini Fernandes,L3,Hotel,2026-09-27,2026-10-11,7700,0,Pending,AS1111,,
+RC-2026-0002,AS1003,Rajesh Kulkarni,L6,Learning & Certification,2026-09-29,2026-10-15,7550,7550,Paid,AS1001,2026-10-30,
+RC-2026-0017,AS1111,Prakash Singh,L4,Mobile Bill,2026-10-01,2026-10-22,300,300,Approved,AS1011,,
+RC-2026-0012,AS1131,Ankit Pandey,L2,Meals (per diem),2026-10-02,2026-10-27,1400,1400,Approved,AS1129,,
+RC-2026-0004,AS1010,Manish Kapoor,L5,Learning & Certification,2026-10-03,2026-11-04,21650,0,Rejected,AS1001,,Submitted after 30-day claim window
+RC-2026-0060,AS1038,Tarun Bhat,L2,Learning & Certification,2026-10-06,2026-11-06,4000,0,Rejected,AS1016,,Submitted after 30-day claim window
+RC-2026-0094,AS1101,Aishwarya Singh,L3,Meals (per diem),2026-10-06,2026-10-26,700,700,Approved,AS1091,,
+RC-2026-0105,AS1051,Vidya Singh,L2,Ergonomic Allowance,2026-10-08,2026-11-06,9400,9400,Approved,AS1050,,
+RC-2026-0090,AS1122,Nandini Fernandes,L3,Meals (per diem),2026-10-08,2026-11-06,600,600,Approved,AS1111,,
+RC-2026-0022,AS1120,Pallavi Joshi,L3,Internet Bill,2026-10-10,2026-10-21,750,0,Pending,AS1111,,
+RC-2026-0005,AS1017,Akash Rao,L4,Travel - Flight,2026-10-15,2026-11-06,9050,9050,Approved,AS1004,,
+RC-2026-0113,AS1106,Sana Thakur,L2,Local Conveyance,2026-10-18,2026-11-06,300,300,Approved,AS1104,,
+RC-2026-0039,AS1016,Isha Shenoy,L4,Travel - Train/Bus,2026-10-20,2026-11-05,2000,2000,Approved,AS1004,,
+RC-2026-0006,AS1086,Sneha Mehta,L1,Internet Bill,2026-10-20,2026-11-06,750,750,Approved,AS1083,,
+RC-2026-0021,AS1059,Tarun Rao,L4,Hotel,2026-10-24,2026-11-06,7600,6000,Approved,AS1006,,"Amount above grade limit (₹6,000/night); excess not reimbursed"
+RC-2026-0027,AS1069,Lavanya Sharma,L2,Internet Bill,2026-10-24,2026-11-06,300,300,Approved,AS1059,,
+RC-2026-0114,AS1106,Sana Thakur,L2,Internet Bill,2026-10-28,2026-11-06,350,350,Approved,AS1104,,

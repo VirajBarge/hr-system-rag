@@ -1,0 +1,18 @@
+date,day,holiday,type,falls_on_weekend
+2026-01-01,Thursday,New Year's Day,Fixed Holiday,No
+2026-01-14,Wednesday,Makar Sankranti / Pongal,Floating Holiday (choose any 2),No
+2026-01-26,Monday,Republic Day,Fixed Holiday,No
+2026-03-04,Wednesday,Holi,Floating Holiday (choose any 2),No
+2026-03-19,Thursday,Ugadi / Gudi Padwa,Fixed Holiday,No
+2026-04-03,Friday,Good Friday,Fixed Holiday,No
+2026-05-01,Friday,Labour Day / Maharashtra Day,Fixed Holiday,No
+2026-05-27,Wednesday,Bakrid / Eid al-Adha,Floating Holiday (choose any 2),No
+2026-08-15,Saturday,Independence Day,Fixed Holiday,Yes
+2026-08-26,Wednesday,Onam,Floating Holiday (choose any 2),No
+2026-08-28,Friday,Raksha Bandhan,Floating Holiday (choose any 2),No
+2026-09-14,Monday,Ganesh Chaturthi,Fixed Holiday,No
+2026-10-02,Friday,Gandhi Jayanti,Fixed Holiday,No
+2026-10-20,Tuesday,Dussehra (Vijayadashami),Fixed Holiday,No
+2026-11-09,Monday,Diwali (Govardhan Puja / Balipratipada),Fixed Holiday,No
+2026-11-24,Tuesday,Guru Nanak Jayanti,Floating Holiday (choose any 2),No
+2026-12-25,Friday,Christmas Day,Fixed Holiday,No

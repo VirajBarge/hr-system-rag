@@ -1,0 +1,148 @@
+employee_id,name,gender,email,department,designation,grade,employment_type,work_location,date_of_joining,probation_status,reporting_manager_id,reporting_manager,notice_period_days,status,last_working_day,tenure_years
+AS1001,Arvind Menon,M,arvind.menon@aurelia-sys.example,Administration,Chief Executive Officer,L6,Full-time,Bengaluru,2016-06-01,Confirmed,,,90,Active,,10.4
+AS1002,Sunita Rao,F,sunita.rao@aurelia-sys.example,Human Resources,Head of Human Resources,L5,Full-time,Bengaluru,2018-02-12,Confirmed,AS1001,Arvind Menon,90,Active,,8.7
+AS1003,Rajesh Kulkarni,M,rajesh.kulkarni@aurelia-sys.example,Finance & Accounts,Head of Finance (CFO),L6,Full-time,Bengaluru,2017-04-03,Confirmed,AS1001,Arvind Menon,90,Active,,9.6
+AS1004,Neha Bhargava,F,neha.bhargava@aurelia-sys.example,Engineering,Head of Engineering (CTO),L6,Full-time,Bengaluru,2016-06-01,Confirmed,AS1001,Arvind Menon,90,Active,,10.4
+AS1005,Nikhil Mishra,M,nikhil.mishra@aurelia-sys.example,Product & Design,Head of Product & Design,L5,Full-time,Bengaluru,2019-11-15,Confirmed,AS1001,Arvind Menon,90,Active,,7.0
+AS1006,Prakash Deshpande,M,prakash.deshpande@aurelia-sys.example,Data & AI,Head of Data & AI,L5,Full-time,Hyderabad,2019-05-12,Confirmed,AS1001,Arvind Menon,90,Active,,7.5
+AS1007,Rekha Kamath,F,rekha.kamath@aurelia-sys.example,Quality Assurance,Head of Quality Assurance,L5,Full-time,Bengaluru,2018-05-07,Confirmed,AS1001,Arvind Menon,90,Active,,8.5
+AS1008,Rohit Chatterjee,M,rohit.chatterjee@aurelia-sys.example,IT & Infrastructure,Head of IT & Infrastructure,L5,Full-time,Bengaluru,2021-07-31,Confirmed,AS1001,Arvind Menon,90,Active,,5.3
+AS1009,Ananya Krishnan,F,ananya.krishnan@aurelia-sys.example,Sales,Head of Sales,L5,Full-time,Bengaluru,2020-10-23,Confirmed,AS1001,Arvind Menon,90,Active,,6.0
+AS1010,Manish Kapoor,M,manish.kapoor@aurelia-sys.example,Marketing,Head of Marketing,L5,Full-time,Bengaluru,2018-12-14,Confirmed,AS1001,Arvind Menon,90,Active,,7.9
+AS1011,Sowmya Mishra,F,sowmya.mishra@aurelia-sys.example,Customer Success,Head of Customer Success,L5,Full-time,Bengaluru,2020-07-30,Confirmed,AS1001,Arvind Menon,90,Active,,6.3
+AS1012,Imran Sheikh,M,imran.sheikh@aurelia-sys.example,IT & Infrastructure,Chief Information Security Officer (CISO),L5,Full-time,Bengaluru,2019-08-05,Confirmed,AS1008,Rohit Chatterjee,90,Active,,7.3
+AS1013,Meera Nair,F,meera.nair@aurelia-sys.example,Administration,Legal & Compliance Manager / Data Protection Officer,L4,Full-time,Bengaluru,2019-03-18,Confirmed,AS1001,Arvind Menon,90,Active,,7.6
+AS1014,Kavitha Sundaram,F,kavitha.sundaram@aurelia-sys.example,Human Resources,Senior HR Business Partner (IC Presiding Officer),L4,Full-time,Bengaluru,2018-09-24,Confirmed,AS1002,Sunita Rao,90,Active,,8.1
+AS1015,Anjali Shenoy,F,anjali.shenoy@aurelia-sys.example,Engineering,Engineering Manager,L4,Full-time,Bengaluru,2020-08-21,Confirmed,AS1004,Neha Bhargava,90,Active,,6.2
+AS1016,Isha Shenoy,F,isha.shenoy@aurelia-sys.example,Engineering,Engineering Manager,L4,Full-time,Bengaluru,2021-01-25,Confirmed,AS1004,Neha Bhargava,90,Active,,5.8
+AS1017,Akash Rao,M,akash.rao@aurelia-sys.example,Engineering,Engineering Manager,L4,Full-time,Bengaluru,2022-02-09,Confirmed,AS1004,Neha Bhargava,90,Active,,4.7
+AS1018,Radhika Jain,F,radhika.jain@aurelia-sys.example,Engineering,Engineering Manager,L4,Full-time,Pune,2020-06-13,Confirmed,AS1004,Neha Bhargava,90,Active,,6.4
+AS1019,Neha Menon,F,neha.menon@aurelia-sys.example,Engineering,Software Engineer,L2,Full-time,Bengaluru,2025-06-15,Confirmed,AS1016,Isha Shenoy,60,Active,,1.4
+AS1020,Karthik Raman,M,karthik.raman@aurelia-sys.example,Engineering,Frontend Engineer,L3,Full-time,Bengaluru,2024-04-09,Confirmed,AS1017,Akash Rao,60,Active,,2.6
+AS1021,Akash Thakur,M,akash.thakur@aurelia-sys.example,Engineering,Frontend Engineer,L3,Full-time,Bengaluru,2026-07-24,On Probation,AS1016,Isha Shenoy,30,Active,,0.3
+AS1022,Pallavi Mishra,F,pallavi.mishra@aurelia-sys.example,Engineering,Backend Engineer,L3,Full-time,Hyderabad,2025-02-23,Confirmed,AS1018,Radhika Jain,60,Active,,1.7
+AS1023,Pooja Chatterjee,F,pooja.chatterjee@aurelia-sys.example,Engineering,Frontend Engineer,L3,Full-time,Bengaluru,2023-11-09,Confirmed,AS1015,Anjali Shenoy,60,Active,,3.0
+AS1024,Naveen Krishnan,M,naveen.krishnan@aurelia-sys.example,Engineering,Mobile Engineer,L1,Full-time,Bengaluru,2024-02-20,Confirmed,AS1016,Isha Shenoy,60,Active,,2.7
+AS1025,Gaurav Krishnan,M,gaurav.krishnan@aurelia-sys.example,Engineering,Frontend Engineer,L2,Full-time,Bengaluru,2024-03-26,Confirmed,AS1015,Anjali Shenoy,60,Active,,2.6
+AS1026,Naveen Gowda,M,naveen.gowda@aurelia-sys.example,Engineering,Backend Engineer,L3,Full-time,Bengaluru,2024-02-18,Confirmed,AS1018,Radhika Jain,60,Active,,2.7
+AS1027,Nisha Raman,F,nisha.raman@aurelia-sys.example,Engineering,Senior Software Engineer,L2,Full-time,Bengaluru,2023-10-10,Confirmed,AS1015,Anjali Shenoy,60,Active,,3.1
+AS1028,Pooja Jain,F,pooja.jain@aurelia-sys.example,Engineering,Backend Engineer,L3,Full-time,Bengaluru,2020-01-31,Confirmed,AS1018,Radhika Jain,60,Active,,6.8
+AS1029,Nandini Thakur,F,nandini.thakur@aurelia-sys.example,Engineering,Software Engineer,L3,Full-time,Bengaluru,2019-01-01,Confirmed,AS1018,Radhika Jain,60,Active,,7.8
+AS1030,Rakesh Thakur,M,rakesh.thakur@aurelia-sys.example,Engineering,Full Stack Engineer,L2,Full-time,Bengaluru,2019-07-02,Confirmed,AS1017,Akash Rao,60,Active,,7.3
+AS1031,Radhika Krishnan,F,radhika.krishnan@aurelia-sys.example,Engineering,Backend Engineer,L1,Full-time,Hyderabad,2025-06-10,Confirmed,AS1017,Akash Rao,60,Active,,1.4
+AS1032,Karthik Mishra,M,karthik.mishra@aurelia-sys.example,Engineering,Frontend Engineer,L2,Full-time,Bengaluru,2025-08-05,Confirmed,AS1015,Anjali Shenoy,60,Active,,1.3
+AS1033,Imran Banerjee,M,imran.banerjee@aurelia-sys.example,Engineering,Senior Software Engineer,L2,Full-time,Pune,2020-07-08,Confirmed,AS1015,Anjali Shenoy,60,Active,,6.3
+AS1034,Pallavi Naidu,F,pallavi.naidu@aurelia-sys.example,Engineering,Senior Software Engineer,L2,Full-time,Bengaluru,2024-10-31,Confirmed,AS1017,Akash Rao,60,Active,,2.0
+AS1035,Vihaan Fernandes,M,vihaan.fernandes@aurelia-sys.example,Engineering,Frontend Engineer,L3,Full-time,Hyderabad,2019-10-28,Confirmed,AS1016,Isha Shenoy,60,Active,,7.0
+AS1036,Aishwarya Raman,F,aishwarya.raman@aurelia-sys.example,Engineering,Software Engineer,L3,Full-time,Bengaluru,2019-04-15,Confirmed,AS1015,Anjali Shenoy,60,Active,,7.6
+AS1037,Nandini Desai,F,nandini.desai@aurelia-sys.example,Engineering,Software Engineer,L2,Full-time,Bengaluru,2024-07-31,Confirmed,AS1018,Radhika Jain,60,Active,,2.3
+AS1038,Tarun Bhat,M,tarun.bhat@aurelia-sys.example,Engineering,Backend Engineer,L2,Full-time,Hyderabad,2024-02-23,Confirmed,AS1016,Isha Shenoy,60,Active,,2.7
+AS1039,Mohit Shetty,M,mohit.shetty@aurelia-sys.example,Engineering,Software Engineer,L2,Full-time,Bengaluru,2021-03-11,Confirmed,AS1017,Akash Rao,60,Active,,5.7
+AS1040,Akash Iyer,M,akash.iyer@aurelia-sys.example,Engineering,Mobile Engineer,L2,Full-time,Bengaluru,2021-02-11,Confirmed,AS1016,Isha Shenoy,60,Active,,5.7
+AS1041,Siddharth Shetty,M,siddharth.shetty@aurelia-sys.example,Engineering,Full Stack Engineer,L3,Full-time,Bengaluru,2020-07-18,Confirmed,AS1017,Akash Rao,60,Active,,6.3
+AS1042,Swati Banerjee,F,swati.banerjee@aurelia-sys.example,Engineering,Frontend Engineer,L2,Full-time,Bengaluru,2019-11-19,Confirmed,AS1015,Anjali Shenoy,60,Exited,2025-12-25,6.1
+AS1043,Meghana Pandey,F,meghana.pandey@aurelia-sys.example,Engineering,Frontend Engineer,L1,Full-time,Pune,2024-11-29,Confirmed,AS1015,Anjali Shenoy,60,Active,,1.9
+AS1044,Neha Sharma,F,neha.sharma@aurelia-sys.example,Engineering,Full Stack Engineer,L1,Full-time,Bengaluru,2020-01-23,Confirmed,AS1017,Akash Rao,60,Active,,6.8
+AS1045,Pallavi Shetty,F,pallavi.shetty@aurelia-sys.example,Engineering,Frontend Engineer,L3,Full-time,Bengaluru,2025-02-10,Confirmed,AS1016,Isha Shenoy,60,Active,,1.7
+AS1046,Mariam Thakur,F,mariam.thakur@aurelia-sys.example,Engineering,Backend Engineer,L3,Full-time,Bengaluru,2025-04-20,Confirmed,AS1018,Radhika Jain,60,Exited,2026-07-06,1.2
+AS1047,Rakesh Pillai,M,rakesh.pillai@aurelia-sys.example,Engineering,Backend Engineer,L3,Full-time,Pune,2025-03-26,Confirmed,AS1015,Anjali Shenoy,60,Active,,1.6
+AS1048,Kavya Gowda,F,kavya.gowda@aurelia-sys.example,Engineering,Mobile Engineer,L3,Full-time,Bengaluru,2025-03-26,Confirmed,AS1016,Isha Shenoy,60,Active,,1.6
+AS1049,Kunal Reddy,M,kunal.reddy@aurelia-sys.example,Engineering,Senior Software Engineer,L3,Full-time,Hyderabad,2020-03-10,Confirmed,AS1018,Radhika Jain,60,Active,,6.7
+AS1050,Fatima Gowda,F,fatima.gowda@aurelia-sys.example,Product & Design,Product Manager,L4,Full-time,Pune,2022-08-15,Confirmed,AS1005,Nikhil Mishra,90,Active,,4.2
+AS1051,Vidya Singh,F,vidya.singh@aurelia-sys.example,Product & Design,Product Analyst,L2,Full-time,Bengaluru,2022-04-07,Confirmed,AS1050,Fatima Gowda,60,Serving Notice,2027-01-11,4.8
+AS1052,Radhika Kapoor,F,radhika.kapoor@aurelia-sys.example,Product & Design,Product Analyst,L2,Full-time,Bengaluru,2023-08-14,Confirmed,AS1050,Fatima Gowda,60,Active,,3.2
+AS1053,Sandeep Fernandes,M,sandeep.fernandes@aurelia-sys.example,Product & Design,Associate Manager,L1,Full-time,Bengaluru,2025-12-27,Confirmed,AS1050,Fatima Gowda,60,Active,,0.9
+AS1054,Vidya Verma,F,vidya.verma@aurelia-sys.example,Product & Design,Visual Designer,L3,Full-time,Bengaluru,2019-06-05,Confirmed,AS1050,Fatima Gowda,60,Active,,7.4
+AS1055,Prakash Rao,M,prakash.rao@aurelia-sys.example,Product & Design,Senior UX Designer,L3,Full-time,Hyderabad,2026-07-31,On Probation,AS1050,Fatima Gowda,30,Active,,0.3
+AS1056,Anjali Fernandes,F,anjali.fernandes@aurelia-sys.example,Product & Design,UX Designer,L3,Full-time,Bengaluru,2023-05-13,Confirmed,AS1050,Fatima Gowda,60,Active,,3.5
+AS1057,Anjali Rao,F,anjali.rao@aurelia-sys.example,Product & Design,UX Designer,L3,Full-time,Bengaluru,2022-09-15,Confirmed,AS1050,Fatima Gowda,60,Active,,4.1
+AS1058,Meghana Naidu,F,meghana.naidu@aurelia-sys.example,Product & Design,Product Analyst,L2,Full-time,Pune,2025-01-29,Confirmed,AS1050,Fatima Gowda,60,Active,,1.8
+AS1059,Tarun Rao,M,tarun.rao@aurelia-sys.example,Data & AI,Data Manager,L4,Full-time,Bengaluru,2019-11-29,Confirmed,AS1006,Prakash Deshpande,90,Active,,6.9
+AS1060,Sandeep Menon,M,sandeep.menon@aurelia-sys.example,Data & AI,ML Engineer,L1,Full-time,Bengaluru,2025-08-09,Confirmed,AS1059,Tarun Rao,60,Active,,1.2
+AS1061,Mariam Bhat,F,mariam.bhat@aurelia-sys.example,Data & AI,Data Engineer,L2,Full-time,Hyderabad,2023-09-21,Confirmed,AS1059,Tarun Rao,60,Active,,3.1
+AS1062,Aditya Thakur,M,aditya.thakur@aurelia-sys.example,Data & AI,Data Analyst,L2,Full-time,Hyderabad,2026-06-02,On Probation,AS1059,Tarun Rao,30,Active,,0.4
+AS1063,Ananya Iyer,F,ananya.iyer@aurelia-sys.example,Data & AI,Data Engineer,L3,Full-time,Bengaluru,2021-07-23,Confirmed,AS1059,Tarun Rao,60,Active,,5.3
+AS1064,Fatima Kulkarni,F,fatima.kulkarni@aurelia-sys.example,Data & AI,ML Engineer,L2,Full-time,Bengaluru,2020-07-21,Confirmed,AS1059,Tarun Rao,60,Exited,2026-03-01,5.6
+AS1065,Nikhil Pandey,M,nikhil.pandey@aurelia-sys.example,Data & AI,MLOps Engineer,L3,Full-time,Hyderabad,2021-12-22,Confirmed,AS1059,Tarun Rao,60,Active,,4.9
+AS1066,Mariam Mishra,F,mariam.mishra@aurelia-sys.example,Data & AI,Data Analyst,L1,Full-time,Bengaluru,2025-01-14,Confirmed,AS1059,Tarun Rao,60,Active,,1.8
+AS1067,Bhavana Mehta,F,bhavana.mehta@aurelia-sys.example,Data & AI,ML Engineer,L3,Full-time,Bengaluru,2021-08-10,Confirmed,AS1059,Tarun Rao,60,Active,,5.2
+AS1068,Deepak Deshpande,M,deepak.deshpande@aurelia-sys.example,Data & AI,Senior Data Scientist,L2,Full-time,Pune,2026-02-22,Confirmed,AS1059,Tarun Rao,60,Active,,0.7
+AS1069,Lavanya Sharma,F,lavanya.sharma@aurelia-sys.example,Data & AI,Senior Data Scientist,L2,Full-time,Bengaluru,2020-09-21,Confirmed,AS1059,Tarun Rao,60,Active,,6.1
+AS1070,Anjali D'Souza,F,anjali.dsouza@aurelia-sys.example,Data & AI,Data Engineer,L3,Full-time,Pune,2019-12-11,Confirmed,AS1059,Tarun Rao,60,Active,,6.9
+AS1071,Radhika Banerjee,F,radhika.banerjee@aurelia-sys.example,Data & AI,Data Analyst,L1,Full-time,Pune,2019-03-17,Confirmed,AS1059,Tarun Rao,60,Active,,7.6
+AS1072,Gaurav Desai,M,gaurav.desai@aurelia-sys.example,Quality Assurance,Quality Assurance Manager,L4,Full-time,Pune,2022-01-08,Confirmed,AS1007,Rekha Kamath,90,Active,,4.8
+AS1073,Sandeep Naidu,M,sandeep.naidu@aurelia-sys.example,Quality Assurance,Test Analyst,L1,Full-time,Bengaluru,2026-06-26,On Probation,AS1072,Gaurav Desai,30,Active,,0.4
+AS1074,Kavya Agarwal,F,kavya.agarwal@aurelia-sys.example,Quality Assurance,SDET,L2,Full-time,Bengaluru,2023-01-03,Confirmed,AS1072,Gaurav Desai,60,Active,,3.8
+AS1075,Harsh Thakur,M,harsh.thakur@aurelia-sys.example,Quality Assurance,Test Analyst,L3,Full-time,Bengaluru,2023-09-28,Confirmed,AS1072,Gaurav Desai,60,Active,,3.1
+AS1076,Prakash Sharma,M,prakash.sharma@aurelia-sys.example,Quality Assurance,Associate Engineer,L1,Full-time,Bengaluru,2020-04-22,Confirmed,AS1072,Gaurav Desai,60,Active,,6.5
+AS1077,Karthik Hegde,M,karthik.hegde@aurelia-sys.example,Quality Assurance,Senior QA Engineer,L2,Full-time,Bengaluru,2024-12-19,Confirmed,AS1072,Gaurav Desai,60,Active,,1.9
+AS1078,Joseph Patil,M,joseph.patil@aurelia-sys.example,Quality Assurance,Test Analyst,L3,Full-time,Bengaluru,2020-03-15,Confirmed,AS1072,Gaurav Desai,60,Active,,6.6
+AS1079,Lavanya Krishnan,F,lavanya.krishnan@aurelia-sys.example,Quality Assurance,QA Engineer,L3,Full-time,Bengaluru,2022-11-25,Confirmed,AS1072,Gaurav Desai,60,Active,,3.9
+AS1080,Harsh Kulkarni,M,harsh.kulkarni@aurelia-sys.example,Quality Assurance,Test Analyst,L3,Full-time,Bengaluru,2025-07-25,Confirmed,AS1072,Gaurav Desai,60,Active,,1.3
+AS1081,Rakesh Bhat,M,rakesh.bhat@aurelia-sys.example,Quality Assurance,SDET,L3,Full-time,Bengaluru,2021-12-22,Confirmed,AS1072,Gaurav Desai,60,Active,,4.9
+AS1082,Vidya Krishnan,F,vidya.krishnan@aurelia-sys.example,Quality Assurance,SDET,L2,Full-time,Bengaluru,2022-08-14,Confirmed,AS1072,Gaurav Desai,60,Active,,4.2
+AS1083,Radhika Fernandes,F,radhika.fernandes@aurelia-sys.example,IT & Infrastructure,IT Manager,L4,Full-time,Hyderabad,2020-03-26,Confirmed,AS1008,Rohit Chatterjee,90,Active,,6.6
+AS1084,Pooja Joshi,F,pooja.joshi@aurelia-sys.example,IT & Infrastructure,Systems Administrator,L2,Full-time,Bengaluru,2023-04-13,Confirmed,AS1083,Radhika Fernandes,60,Active,,3.6
+AS1085,Nikhil Mehta,M,nikhil.mehta@aurelia-sys.example,IT & Infrastructure,IT Support Executive,L2,Full-time,Bengaluru,2020-04-27,Confirmed,AS1083,Radhika Fernandes,60,Exited,2026-05-21,6.1
+AS1086,Sneha Mehta,F,sneha.mehta@aurelia-sys.example,IT & Infrastructure,Associate Executive,L1,Full-time,Bengaluru,2020-08-10,Confirmed,AS1083,Radhika Fernandes,60,Active,,6.2
+AS1087,Bhavana Khan,F,bhavana.khan@aurelia-sys.example,IT & Infrastructure,Security Analyst,L3,Full-time,Hyderabad,2019-03-30,Confirmed,AS1083,Radhika Fernandes,60,Active,,7.6
+AS1088,Radhika Thakur,F,radhika.thakur@aurelia-sys.example,IT & Infrastructure,Security Analyst,L2,Full-time,Pune,2026-08-09,On Probation,AS1083,Radhika Fernandes,30,Active,,0.2
+AS1089,Naveen Verma,M,naveen.verma@aurelia-sys.example,IT & Infrastructure,IT Support Executive,L2,Full-time,Hyderabad,2019-09-03,Confirmed,AS1083,Radhika Fernandes,60,Active,,7.2
+AS1090,Tarun Jain,M,tarun.jain@aurelia-sys.example,IT & Infrastructure,Systems Administrator,L1,Full-time,Hyderabad,2026-03-22,Confirmed,AS1083,Radhika Fernandes,60,Active,,0.6
+AS1091,Ananya Nair,F,ananya.nair@aurelia-sys.example,Sales,Sales Manager,L4,Full-time,Hyderabad,2020-11-24,Confirmed,AS1009,Ananya Krishnan,90,Active,,5.9
+AS1092,Aarav Pillai,M,aarav.pillai@aurelia-sys.example,Sales,Business Development Associate,L3,Full-time,Bengaluru,2022-08-30,Confirmed,AS1091,Ananya Nair,60,Active,,4.2
+AS1093,Bhavana Naidu,F,bhavana.naidu@aurelia-sys.example,Sales,Business Development Associate,L3,Full-time,Pune,2019-11-20,Confirmed,AS1091,Ananya Nair,60,Active,,7.0
+AS1094,Ankit Shenoy,M,ankit.shenoy@aurelia-sys.example,Sales,Account Executive,L3,Full-time,Bengaluru,2022-09-13,Confirmed,AS1091,Ananya Nair,60,Serving Notice,2026-11-30,4.2
+AS1095,Suresh Pandey,M,suresh.pandey@aurelia-sys.example,Sales,Sales Executive,L3,Full-time,Hyderabad,2025-05-13,Confirmed,AS1091,Ananya Nair,60,Active,,1.5
+AS1096,Gaurav Bhat,M,gaurav.bhat@aurelia-sys.example,Sales,Business Development Associate,L1,Full-time,Pune,2026-06-22,On Probation,AS1091,Ananya Nair,30,Active,,0.4
+AS1097,Lavanya Kapoor,F,lavanya.kapoor@aurelia-sys.example,Sales,Business Development Associate,L2,Full-time,Pune,2025-10-20,Confirmed,AS1091,Ananya Nair,60,Active,,1.0
+AS1098,Lavanya Menon,F,lavanya.menon@aurelia-sys.example,Sales,Sales Executive,L3,Full-time,Bengaluru,2026-03-21,Confirmed,AS1091,Ananya Nair,60,Active,,0.6
+AS1099,Pooja D'Souza,F,pooja.dsouza@aurelia-sys.example,Sales,Business Development Associate,L3,Full-time,Bengaluru,2024-03-24,Confirmed,AS1091,Ananya Nair,60,Active,,2.6
+AS1100,Radhika Patil,F,radhika.patil@aurelia-sys.example,Sales,Sales Executive,L2,Full-time,Hyderabad,2023-08-10,Confirmed,AS1091,Ananya Nair,60,Exited,2026-01-29,2.5
+AS1101,Aishwarya Singh,F,aishwarya.singh@aurelia-sys.example,Sales,Sales Executive,L3,Full-time,Pune,2024-09-18,Confirmed,AS1091,Ananya Nair,60,Active,,2.1
+AS1102,Priya Deshpande,F,priya.deshpande@aurelia-sys.example,Sales,Business Development Associate,L3,Full-time,Bengaluru,2021-01-12,Confirmed,AS1091,Ananya Nair,60,Active,,5.8
+AS1103,Sneha Pillai,F,sneha.pillai@aurelia-sys.example,Sales,Senior Account Executive,L3,Full-time,Bengaluru,2026-01-26,Confirmed,AS1091,Ananya Nair,60,Active,,0.8
+AS1104,Radhika Pandey,F,radhika.pandey@aurelia-sys.example,Marketing,Marketing Manager,L4,Full-time,Bengaluru,2021-11-06,Confirmed,AS1010,Manish Kapoor,90,Active,,5.0
+AS1105,Karthik Deshpande,M,karthik.deshpande@aurelia-sys.example,Marketing,Digital Marketing Specialist,L3,Full-time,Hyderabad,2024-06-24,Confirmed,AS1104,Radhika Pandey,60,Active,,2.4
+AS1106,Sana Thakur,F,sana.thakur@aurelia-sys.example,Marketing,Brand Associate,L2,Full-time,Bengaluru,2024-12-21,Confirmed,AS1104,Radhika Pandey,60,Active,,1.9
+AS1107,Karthik Reddy,M,karthik.reddy@aurelia-sys.example,Marketing,Content Strategist,L3,Full-time,Hyderabad,2020-08-12,Confirmed,AS1104,Radhika Pandey,60,Active,,6.2
+AS1108,Karthik Mehta,M,karthik.mehta@aurelia-sys.example,Marketing,Digital Marketing Specialist,L2,Full-time,Pune,2021-01-03,Confirmed,AS1104,Radhika Pandey,60,Active,,5.8
+AS1109,Mariam Joshi,F,mariam.joshi@aurelia-sys.example,Marketing,Associate Strategist,L1,Full-time,Bengaluru,2019-08-08,Confirmed,AS1104,Radhika Pandey,60,Active,,7.2
+AS1110,Neha Mishra,F,neha.mishra@aurelia-sys.example,Marketing,Marketing Executive,L3,Full-time,Bengaluru,2022-05-16,Confirmed,AS1104,Radhika Pandey,60,Exited,2026-02-19,3.8
+AS1111,Prakash Singh,M,prakash.singh@aurelia-sys.example,Customer Success,Customer Success Manager,L4,Full-time,Bengaluru,2019-11-14,Confirmed,AS1011,Sowmya Mishra,90,Active,,7.0
+AS1112,Harsh Kapoor,M,harsh.kapoor@aurelia-sys.example,Customer Success,Customer Success Associate,L2,Full-time,Bengaluru,2020-01-23,Confirmed,AS1111,Prakash Singh,60,Active,,6.8
+AS1113,Rahul Desai,M,rahul.desai@aurelia-sys.example,Customer Success,Support Engineer,L1,Full-time,Bengaluru,2025-08-18,Confirmed,AS1111,Prakash Singh,60,Exited,2026-08-11,1.0
+AS1114,Harsh Desai,M,harsh.desai@aurelia-sys.example,Customer Success,Onboarding Specialist,L3,Full-time,Pune,2021-05-21,Confirmed,AS1111,Prakash Singh,60,Active,,5.5
+AS1115,Harini Pillai,F,harini.pillai@aurelia-sys.example,Customer Success,Onboarding Specialist,L3,Full-time,Bengaluru,2023-01-27,Confirmed,AS1111,Prakash Singh,60,Active,,3.8
+AS1116,Shalini Pillai,F,shalini.pillai@aurelia-sys.example,Customer Success,Onboarding Specialist,L3,Full-time,Hyderabad,2020-01-11,Confirmed,AS1111,Prakash Singh,60,Active,,6.8
+AS1117,Siddharth Rao,M,siddharth.rao@aurelia-sys.example,Customer Success,Customer Success Associate,L1,Full-time,Bengaluru,2026-08-13,On Probation,AS1111,Prakash Singh,30,Active,,0.2
+AS1118,Aarav Deshpande,M,aarav.deshpande@aurelia-sys.example,Customer Success,Support Engineer,L3,Full-time,Bengaluru,2023-10-19,Confirmed,AS1111,Prakash Singh,60,Active,,3.0
+AS1119,Ananya Raman,F,ananya.raman@aurelia-sys.example,Customer Success,Customer Success Manager,L2,Full-time,Pune,2023-06-20,Confirmed,AS1111,Prakash Singh,60,Active,,3.4
+AS1120,Pallavi Joshi,F,pallavi.joshi@aurelia-sys.example,Customer Success,Customer Success Manager,L3,Full-time,Pune,2024-06-22,Confirmed,AS1111,Prakash Singh,60,Active,,2.4
+AS1121,Tarun Reddy,M,tarun.reddy@aurelia-sys.example,Customer Success,Onboarding Specialist,L3,Full-time,Hyderabad,2023-03-26,Confirmed,AS1111,Prakash Singh,60,Active,,3.6
+AS1122,Nandini Fernandes,F,nandini.fernandes@aurelia-sys.example,Customer Success,Customer Success Associate,L3,Full-time,Pune,2024-03-03,Confirmed,AS1111,Prakash Singh,60,Active,,2.7
+AS1123,Arjun Nair,M,arjun.nair@aurelia-sys.example,Customer Success,Customer Success Manager,L3,Full-time,Bengaluru,2019-06-02,Confirmed,AS1111,Prakash Singh,60,Exited,2026-07-10,7.1
+AS1124,Mohit Shenoy,M,mohit.shenoy@aurelia-sys.example,Human Resources,Human Resources Manager,L4,Full-time,Pune,2023-06-25,Confirmed,AS1002,Sunita Rao,90,Active,,3.4
+AS1125,Karthik Iyer,M,karthik.iyer@aurelia-sys.example,Human Resources,Talent Acquisition Specialist,L2,Full-time,Bengaluru,2022-07-28,Confirmed,AS1124,Mohit Shenoy,60,Active,,4.3
+AS1126,Arjun Pandey,M,arjun.pandey@aurelia-sys.example,Human Resources,Associate Partner,L1,Full-time,Bengaluru,2019-07-09,Confirmed,AS1014,Kavitha Sundaram,60,Active,,7.3
+AS1127,Neha Singh,F,neha.singh@aurelia-sys.example,Human Resources,HR Business Partner,L3,Full-time,Hyderabad,2024-04-12,Confirmed,AS1124,Mohit Shenoy,60,Serving Notice,2026-12-17,2.7
+AS1128,Gaurav Singh,M,gaurav.singh@aurelia-sys.example,Human Resources,Payroll Specialist,L3,Full-time,Bengaluru,2021-09-03,Confirmed,AS1014,Kavitha Sundaram,60,Active,,5.2
+AS1129,Rahul Rao,M,rahul.rao@aurelia-sys.example,Finance & Accounts,Finance Manager,L4,Full-time,Pune,2021-06-17,Confirmed,AS1003,Rajesh Kulkarni,90,Active,,5.4
+AS1130,Pooja Agarwal,F,pooja.agarwal@aurelia-sys.example,Finance & Accounts,Accounts Payable Associate,L3,Full-time,Hyderabad,2024-12-10,Confirmed,AS1129,Rahul Rao,60,Active,,1.9
+AS1131,Ankit Pandey,M,ankit.pandey@aurelia-sys.example,Finance & Accounts,Financial Analyst,L2,Full-time,Bengaluru,2022-04-21,Confirmed,AS1129,Rahul Rao,60,Active,,4.5
+AS1132,Sana Pandey,F,sana.pandey@aurelia-sys.example,Finance & Accounts,Accounts Executive,L3,Full-time,Bengaluru,2022-12-18,Confirmed,AS1129,Rahul Rao,60,Active,,3.9
+AS1133,Arjun Deshpande,M,arjun.deshpande@aurelia-sys.example,Finance & Accounts,Financial Analyst,L3,Full-time,Bengaluru,2025-07-30,Confirmed,AS1129,Rahul Rao,60,Active,,1.3
+AS1134,Pallavi Jain,F,pallavi.jain@aurelia-sys.example,Finance & Accounts,Accounts Executive,L2,Full-time,Bengaluru,2020-03-08,Confirmed,AS1129,Rahul Rao,60,Active,,6.7
+AS1135,Rakesh Desai,M,rakesh.desai@aurelia-sys.example,Administration,Admin Executive,L2,Full-time,Pune,2021-12-11,Confirmed,AS1013,Meera Nair,60,Active,,4.9
+AS1136,Divya Nair,F,divya.nair@aurelia-sys.example,Administration,Admin Executive,L3,Full-time,Bengaluru,2021-11-11,Confirmed,AS1013,Meera Nair,60,Active,,5.0
+AS1137,Vivek Nair,M,vivek.nair@aurelia-sys.example,Quality Assurance,Intern - Quality Assurance,L1,Intern,Hyderabad,2026-07-16,Not Applicable,AS1072,Gaurav Desai,0,Active,,0.3
+AS1138,Fatima Nair,F,fatima.nair@aurelia-sys.example,Product & Design,Intern - Product,L1,Intern,Bengaluru,2026-10-01,Not Applicable,AS1050,Fatima Gowda,0,Active,,0.1
+AS1139,Anjali Kulkarni,F,anjali.kulkarni@aurelia-sys.example,Engineering,Intern - Engineering,L1,Intern,Hyderabad,2026-06-22,Not Applicable,AS1015,Anjali Shenoy,0,Active,,0.4
+AS1140,Rahul Sharma,M,rahul.sharma@aurelia-sys.example,Marketing,Intern - Marketing,L1,Intern,Pune,2026-07-07,Not Applicable,AS1104,Radhika Pandey,0,Active,,0.3
+AS1141,Naveen Kapoor,M,naveen.kapoor@aurelia-sys.example,Quality Assurance,Intern - Quality Assurance,L1,Intern,Hyderabad,2026-06-10,Not Applicable,AS1072,Gaurav Desai,0,Active,,0.4
+AS1142,Mohit Pandey,M,mohit.pandey@aurelia-sys.example,Product & Design,Intern - Product,L1,Intern,Pune,2026-08-14,Not Applicable,AS1050,Fatima Gowda,0,Active,,0.2
+AS1143,Faisal Reddy,M,faisal.reddy@aurelia-sys.example,Quality Assurance,SDET,L2,Contract,Pune,2025-10-20,Not Applicable,AS1072,Gaurav Desai,60,Active,,1.0
+AS1144,Priya Hegde,F,priya.hegde@aurelia-sys.example,Quality Assurance,QA Engineer,L2,Contract,Bengaluru,2025-03-16,Not Applicable,AS1072,Gaurav Desai,60,Active,,1.6
+AS1145,Nandini Shetty,F,nandini.shetty@aurelia-sys.example,Engineering,Senior Software Engineer,L2,Contract,Bengaluru,2025-10-29,Not Applicable,AS1018,Radhika Jain,60,Active,,1.0
+AS1146,Manish Mehta,M,manish.mehta@aurelia-sys.example,Customer Success,Support Engineer,L2,Contract,Bengaluru,2026-06-23,Not Applicable,AS1111,Prakash Singh,60,Active,,0.4
+AS1147,Arjun Menon,M,arjun.menon@aurelia-sys.example,Customer Success,Support Engineer,L2,Contract,Hyderabad,2026-06-29,Not Applicable,AS1111,Prakash Singh,60,Active,,0.4
